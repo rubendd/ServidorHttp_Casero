@@ -4,3 +4,5 @@ El servidor puede leer archivos html.
 No es para nada gran cosa pero esta bien para aprender a como crear un serverHTTP desde 0.
 
 Está todo detallado en el código. :)
+
+Es mi primer proyecto que subo y soy un principiante.
